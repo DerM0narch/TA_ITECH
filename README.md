@@ -14,7 +14,7 @@ Gruppenarbeiten für Berufsschule
 > Scrum Leader: <br>
 > Financial Accountant: <br>
 >> #### Nötige Programme
->> Paket Tracer <br>
+>> Paket Tracer https://www.netacad.com/portal/resources/packet-tracer<br>
 >> Code Editor (VSCode, Atom etc.)<br>
 >> A mute button for Lars
 >

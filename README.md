@@ -19,8 +19,8 @@ Gruppenarbeiten für Berufsschule
 >> A mute button for Lars
 >
 >> #### Ziel der Gruppe
->> ?
+>> - Szenario 1 fertigstellen und dabei nicht drauf gehen
 >
 >> #### Teamregeln
->> ?
+>> - nicht schlagen
 >

@@ -11,6 +11,7 @@
 >- Kann die Netzwerksicherheit dem Datenschutz schaden?
 >- Hauptproblem: der Nutzer
 
->> __NAME__
+>> __Hilal__
 >- Was man wissen muss!
 >- Unterschiede Datenschutz/Netzsicherheit
+>- Gemeinsamkeiten

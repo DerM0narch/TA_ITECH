@@ -1,0 +1,17 @@
+Daily Scrums Lernfeld 03 
+
+•    Was habe ich seit dem letzten Stand-Up Meeting erledigt?
+- Packet Tracer eingelesen
+- einfache Netzwerksachen eingelesen, SWITCH, HUB, Router 
+  -> OSI/ISO Schichtenmodell
+- Netzwerkpläne angeguckt
+
+
+•    Was werde ich bis zur nächsten Stand-Up Besprechung tun?
+- Paket Tracer fertig stellen
+- Dokumentation nebenbei machen
+
+•    Welche Hindernisse oder Risiken gibt es?
+- Motivation
+- Zeitmanagment
+- WLAN in der Schule
